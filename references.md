@@ -1,20 +1,25 @@
 # List of Reference
 
+- <http://bbs.eeworld.com.cn/thread-1136730-1-1.html>
 - <https://blog.csdn.net/gonepoo/article/details/108269266>
 - <https://blog.csdn.net/m0_46622606/article/details/108894337>
 - <https://download.csdn.net/download/gonepoo/12710893>
+- <https://download.csdn.net/download/gonepoo/12710914>
 - <https://download.csdn.net/download/gonepoo/12718871>
 - <https://download.csdn.net/download/hellsun/13208675>
 - <https://download.csdn.net/download/zhangnen30/12789619>
+- <https://download.csdn.net/download/zhangnen30/12809332>
 - <https://github.com/CursedHardware/depg0213_epd>
 - <https://github.com/CursedHardware/iar_epd_test>
 - <https://github.com/eleree/depg0213rh>
+- <https://github.com/muyuchl/epaper_price_tag_mod>
 - <https://github.com/waldow/epaper-msp430-clock>
 - <https://github.com/Wangwenxue/Project-HS>
 - <https://hackaday.io/project/167762-epaper-clock>
 - <https://my.oschina.net/u/4267970/blog/4497675>
 - <https://www.amobbs.com/thread-5733670-1-1.html>
 - <https://www.amobbs.com/thread-5733670-2-1.html>
+- <https://www.amobbs.com/thread-5737325-1-1.html>
 - <https://www.amobbs.com/thread-5737370-1-1.html>
 - <https://www.arubanetworks.com/techdocs/Instant_87_WebHelp/Content/instant-ug/custom-iap-param/hanshow-esl.htm>
 - <https://www.cnblogs.com/myfish3/p/13345004.html>
