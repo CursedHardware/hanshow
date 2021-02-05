@@ -17,6 +17,7 @@
 - <https://github.com/Wangwenxue/Project-HS>
 - <https://hackaday.io/project/167762-epaper-clock>
 - <https://my.oschina.net/u/4267970/blog/4497675>
+- <https://v4.cecdn.yun300.cn/100001_1910255030/Hanshow%20Nowa-154.pdf>
 - <https://www.amobbs.com/thread-5733670-1-1.html>
 - <https://www.amobbs.com/thread-5733670-2-1.html>
 - <https://www.amobbs.com/thread-5737325-1-1.html>
